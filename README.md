@@ -27,6 +27,8 @@
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" alt="NodeJS" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MS SQL" height="40" width="50" img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png">
+  <img align="center" alt="VS" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Jira" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">  
 </div>
   
   <br>
@@ -41,5 +43,5 @@
   <img align="center" alt="C" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">     
- <img align="center" alt="My SQL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+ <img align="center" alt="My SQL" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 </div>
