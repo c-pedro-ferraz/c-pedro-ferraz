@@ -2,7 +2,7 @@
 👋 Olá ! Sou o Pedro Ferraz </> <br/>
 👨🏽‍💻 Foco meus estudos em Desenvolvimento BackEnd. <br/>
 💻 Trabalho na JJR Empreendimentos como Analista de T.I.<br/>
-📫 Me encontre no LinkedIn <br>
+📫 Me encontre no LinkedIn <br><br/>
 <a href="https://www.linkedin.com/in/pedro-h-s-ferraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -14,15 +14,10 @@
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-pedro-ferraz&layout=compact&langs_count=7&theme=github_dark"/>
 </div>  
   
-  <br>
-  
-<div style="display: inline_block" align="center">
-  🔥 ESTOU TRABALHANDO COM
-</div>
-  
-  <br>
-  
+  <br> 
+
 <div style="display: inline_block" align="center" >
+  🔥 ESTOU TRABALHANDO COM <br/><br/>
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center" alt="NodeJS" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -32,14 +27,9 @@
 </div>
   
   <br>
-
-<div style="display: inline_block" align="center">
-  💻 TENHO EXPERIÊNCIA COM
-</div>  
-  
-  <br>
   
 <div style="display: inline_block" align="center" >
+  💻 TENHO EXPERIÊNCIA COM <br/><br/>
   <img align="center" alt="C" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">     
