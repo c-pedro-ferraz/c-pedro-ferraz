@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center">
-👋 Olá ! Sou o Pedro Ferraz </> <br/>
+<h2>👋 Olá ! Sou o Pedro Ferraz </></h2> <br/>
 👨🏽‍💻 Foco meus estudos em Desenvolvimento BackEnd. <br/>
 💻 Trabalho na JJR Empreendimentos como Analista de T.I.<br/>
 📫 Me encontre no LinkedIn <br><br/>
