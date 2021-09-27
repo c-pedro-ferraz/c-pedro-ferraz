@@ -17,6 +17,6 @@
 
 <div align="center">
   <a href="https://github.com/c-pedro-ferraz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c-pedro-ferraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-pedro-ferraz&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=c-pedro-ferraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-pedro-ferraz&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
