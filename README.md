@@ -9,7 +9,7 @@
   <img align="center" alt="NodeJS" height="35" width="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MS SQL"height="35" width="45" img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png">
   <img align="center" alt="VS" height="35" width="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Jira"height="35" width="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+  <img align="center" alt="Jira" height="35" width="45" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
   </br>
 </div>
 
@@ -17,6 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/c-pedro-ferraz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=c-pedro-ferraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=c-pedro-ferraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>   
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-pedro-ferraz&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="235em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c-pedro-ferraz&theme=github_dark"/>
 </div>
